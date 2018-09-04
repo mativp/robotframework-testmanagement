@@ -3,8 +3,7 @@
 
 #  Copyright (c) 2015 Lingaro
 
-
-import urlparse
+from urllib.parse import urlparse
 
 from robot.api import logger
 
